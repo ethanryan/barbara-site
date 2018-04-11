@@ -3,7 +3,18 @@ body {
   padding-top: 3.5rem;
 }
 
+.image-container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
 
-#contact {
-  background-color: #e9ecef;
+.top-center-text {
+    position: absolute;
+    top: 10%;
+    left: 20%;
+    right: 20%;
+    font-size: 48px;
+    color: green;
+    border: 5px solid red;
 }
