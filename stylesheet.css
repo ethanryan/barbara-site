@@ -3,9 +3,9 @@ body {
   padding-top: 3.5rem;
 }
 
-/* ul {
+.wedding-types-ul {
   list-style-type: none;
-} */
+}
 
 .image-container {
     position: relative;
