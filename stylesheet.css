@@ -11,10 +11,11 @@ body {
 
 .top-center-text {
     position: absolute;
-    top: 10%;
+    top: 3%;
     left: 20%;
     right: 20%;
     font-size: 48px;
-    color: green;
-    border: 5px solid red;
+    color: black;
+    /* color: green; */
+    /* border: 5px solid red; */
 }
