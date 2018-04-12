@@ -16,6 +16,10 @@ body {
     right: 20%;
     font-size: 48px;
     color: black;
-    /* color: green; */
-    /* border: 5px solid red; */
+}
+
+.add-padding {
+  padding-left: 15%;
+  padding-right: 15%;
+  /* border: 5px solid green; */
 }
