@@ -15,27 +15,32 @@ body {
   margin-top: -80px;
 }
 
+.left-align-block {
+  display: inline-block;
+  text-align: left;
+}
+
 .wedding-types-ul {
   list-style-type: none;
 }
 
 .image-container {
-    position: relative;
-    text-align: center;
-    color: white;
+  position: relative;
+  text-align: center;
+  color: white;
 }
 
 .background {
-    width: 100%;
-    height: 100%;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    background-color: black;
-    /* min-height: 550px; */
-    min-height: 720px;
-    /* 720px is the height of the original image */
+  width: 100%;
+  height: 100%;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-color: black;
+  /* min-height: 550px; */
+  min-height: 720px;
+  /* 720px is the height of the original image */
 }
 
 .background-ireland-wedding {
@@ -47,12 +52,12 @@ body {
 }
 
 .top-center-text {
-    position: absolute;
-    top: 3%;
-    left: 20%;
-    right: 20%;
-    font-size: 48px;
-    color: black;
+  position: absolute;
+  top: 3%;
+  left: 20%;
+  right: 20%;
+  font-size: 48px;
+  color: black;
 }
 
 .add-padding-to-text {
