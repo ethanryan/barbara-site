@@ -30,7 +30,8 @@ body {
   color: white;
 }
 
-.background {
+.background-ireland-wedding {
+  background: url(assets/ireland-wedding.jpg);
   width: 100%;
   height: 100%;
   background-attachment: fixed;
@@ -38,13 +39,8 @@ body {
   background-position: center;
   background-size: cover;
   background-color: black;
-  /* min-height: 550px; */
   min-height: 720px;
   /* 720px is the height of the original image */
-}
-
-.background-ireland-wedding {
-  background: url(assets/ireland-wedding.jpg);
 }
 
 .about-jumbotron {
