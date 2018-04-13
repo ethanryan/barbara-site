@@ -9,6 +9,12 @@ body {
   text-shadow: 4px 4px 4px #aaa;
 }
 
+/* below is to offset body padding-top, so navbar links to correct place */
+.anchor-for-navbar {
+  padding-top: 80px;
+  margin-top: -80px;
+}
+
 .wedding-types-ul {
   list-style-type: none;
 }
