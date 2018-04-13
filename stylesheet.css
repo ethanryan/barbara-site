@@ -15,12 +15,17 @@ body {
   margin-top: -80px;
 }
 
-.left-align-block {
-  display: inline-block;
-  text-align: left;
+
+#center-list {
+  text-align: center;
 }
 
 .wedding-types-ul {
+  text-align: left;
+  /* border: 1px solid green; */
+  margin: 20px auto;
+  padding: 0px;
+  display: inline-block;
   list-style-type: none;
 }
 
@@ -38,7 +43,7 @@ body {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  background-color: black;
+  background-color: azure;
   min-height: 720px;
   /* 720px is the height of the original image */
 }
