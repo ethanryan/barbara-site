@@ -39,7 +39,17 @@ body {
     color: black;
 }
 
-.add-padding {
+.add-padding-to-text {
   padding-left: 15%;
   padding-right: 15%;
+  /* background-color: black; */
+}
+
+/* Smartphones (portrait and landscape) ----------- */
+@media screen and (max-width: 480px) {
+  .add-padding-to-text {
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: blue;
+  }
 }
