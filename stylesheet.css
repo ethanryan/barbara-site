@@ -26,6 +26,9 @@ body {
   margin: 20px auto;
   padding: 0px;
   display: inline-block;
+}
+
+.no-bullets {
   list-style-type: none;
 }
 
