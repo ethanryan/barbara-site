@@ -4,12 +4,12 @@ body {
   padding-top: 3.5rem;
   font-family: 'Open Sans', sans-serif;
   font-size: 18px;
-  background: linear-gradient(to right, #fbd3e9, #bb377d);
+  background: linear-gradient(to right, #bb377d, #fbd3e9, #bb377d);
   /* cherryblossoms gradient */
 }
 
 #navbar {
-  background: linear-gradient(to right, #fbd3e9, #bb377d);
+  background: linear-gradient(to right, #bb377d, #fbd3e9, #bb377d);
 }
 
 .shadow-text {
@@ -76,6 +76,10 @@ body {
   background-color: azure;
   min-height: 720px;
   /* 720px is the height of the original image */
+}
+
+#about-text {
+  padding-top: 20px;
 }
 
 .about-jumbotron {
