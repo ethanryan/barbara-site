@@ -84,7 +84,10 @@ body {
   left: 20%;
   right: 20%;
   font-size: 48px;
-  color: black;
+}
+
+.green-text {
+  color: rgb(72,191,25);
 }
 
 .add-padding-to-text {
