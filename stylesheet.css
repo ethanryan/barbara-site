@@ -15,9 +15,13 @@ body {
   margin-top: -80px;
 }
 
-
-#center-list {
-  text-align: center;
+#service-offerings {
+  background: azure;
+  box-shadow: 0 4px 6px 0 hsla(0, 0%, 0%, 0.2);
+  /* border: 3px solid green; */
+  margin-left: -150px;
+  margin-right: -150px;
+  padding: 20px;
 }
 
 .wedding-types-ul {
