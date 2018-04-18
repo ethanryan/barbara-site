@@ -15,6 +15,17 @@ body {
   margin-top: -80px;
 }
 
+#process {
+  box-shadow: 0 4px 6px 0 hsla(0, 0%, 0%, 0.2);
+  margin-top: 10%;
+  margin-bottom: 10%;
+  padding: 20px;
+}
+
+.process-header {
+  background: pink;
+}
+
 #service-offerings {
   background: azure;
   box-shadow: 0 4px 6px 0 hsla(0, 0%, 0%, 0.2);
