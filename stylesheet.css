@@ -22,6 +22,10 @@ body {
   margin-top: -80px;
 }
 
+#main-image-and-header {
+  margin-bottom: 3%;
+}
+
 #process {
   box-shadow: 0 4px 6px 0 hsla(0, 0%, 0%, 0.2);
   margin-top: 10%;
@@ -88,6 +92,14 @@ body {
 
 .green-text {
   color: rgb(72,191,25);
+}
+
+.slide-image {
+  /* border: 5px solid red; */
+  width: 650px;
+  max-height: 500px;
+  /* background-size: cover; */
+  background-size: contain;
 }
 
 .add-padding-to-text {
