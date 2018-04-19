@@ -26,8 +26,11 @@ body {
   margin-bottom: 3%;
 }
 
-#process {
+.box-shadow {
   box-shadow: 0 4px 6px 0 hsla(0, 0%, 0%, 0.2);
+}
+
+#process {
   margin-top: 10%;
   margin-bottom: 10%;
   padding: 20px;
