@@ -105,7 +105,7 @@ body {
 .slide-image {
   /* border: 5px solid red; */
   width: 650px;
-  max-height: 500px;
+  height: 500px;
   /* background-size: cover; */
   background-size: contain;
 }
