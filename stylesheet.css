@@ -37,7 +37,7 @@ body {
 }
 
 .process-header {
-  background: pink;
+  background: #fbd3e9;
 }
 
 #service-offerings {
@@ -98,7 +98,7 @@ body {
   color: green;
   font-family: 'Dancing Script', cursive;
   text-shadow: 4px 4px 4px #aaa;
-  font-size: 48px;
+  font-size: 58px;
   padding-bottom: 20px;
 }
 
