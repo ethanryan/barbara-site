@@ -95,7 +95,8 @@ body {
 }
 
 .green-text {
-  color: rgb(72,191,25);
+  /* color: rgb(72,191,25); */
+  color: green;
 }
 
 .slide-image {
