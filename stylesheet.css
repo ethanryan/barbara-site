@@ -18,6 +18,18 @@ body {
   text-shadow: 4px 4px 4px #aaa;
 }
 
+.svg-next-to-text {
+  /* border: 1px solid black; */
+  padding: 4px 2px;
+  margin-right: 20px;
+  display: inline-block;
+}
+
+.svg-next-to-text svg {
+  display: inline-block;
+  vertical-align: middle;
+}
+
 /* below is to offset body padding-top, so navbar links to correct place */
 .anchor-for-navbar {
   padding-top: 80px;
