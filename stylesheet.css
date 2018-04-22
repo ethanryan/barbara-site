@@ -50,6 +50,10 @@ body {
   padding: 20px;
 }
 
+.added-margin {
+  margin-top: 3%;
+}
+
 .process-header {
   /* background: #fbd3e9; */
   background: white;
