@@ -44,6 +44,10 @@ body {
   box-shadow: 0 4px 6px 0 hsla(0, 0%, 0%, 0.2);
 }
 
+.icon {
+  margin-left: -25px;
+}
+
 #process {
   margin-top: 10%;
   margin-bottom: 10%;
