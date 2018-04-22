@@ -44,11 +44,24 @@ body {
 }
 
 .service-offerings {
-  margin-bottom: 20px;
+  margin-bottom: 40px;
   padding-top: 20px;
   border: 1px solid #eee;
   border-left-width: .25rem;
   border-radius: .25rem;
+}
+
+.left-border-red {
+  border-left-color: red;
+}
+
+.left-border-orange {
+  /* border-left-color: #f0ad4e; */
+  border-left-color: orange;
+}
+
+.left-border-yellow {
+  border-left-color: yellow;
 }
 
 /* #service-offerings {
@@ -74,10 +87,6 @@ body {
 
 .no-margin-bottom {
   margin-bottom: 0px;
-}
-
-.left-border-red {
-  border-left-color: #f0ad4e;
 }
 
 .image-container {
