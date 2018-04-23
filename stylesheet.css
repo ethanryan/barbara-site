@@ -48,8 +48,11 @@ body {
   margin-left: -25px;
 }
 
+#service {
+  margin-top: 10px;
+}
+
 #process {
-  margin-top: 10%;
   margin-bottom: 10%;
   padding: 20px;
 }
