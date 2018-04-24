@@ -160,9 +160,13 @@ body {
   padding-bottom: 20px;
 }
 
+#myCarousel {
+  background-color: lightgray;
+}
+
 .slide-image {
   /* border: 5px solid red; */
-  width: 650px;
+  /* width: 650px; */
   height: 500px;
   /* background-size: cover; */
   background-size: contain;
