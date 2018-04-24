@@ -181,4 +181,8 @@ body {
     padding-right: 5%;
     /* background-color: blue; */
   }
+
+  .subheader {
+    color: white;
+  }
 }
