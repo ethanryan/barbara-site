@@ -151,7 +151,9 @@ body {
 
 .green-text {
   /* color: rgb(72,191,25); */
-  color: green;
+  /* color: green; */
+  /* color: #96a341; */
+  color: #608038;
   font-family: 'Dancing Script', cursive;
   text-shadow: 4px 4px 4px #aaa;
   font-size: 58px;
