@@ -44,6 +44,10 @@ body {
   background-color: white;
 }
 
+.subheader {
+  color: purple;
+}
+
 .box-shadow {
   box-shadow: 0 4px 6px 0 hsla(0, 0%, 0%, 0.2);
 }
