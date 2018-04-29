@@ -162,11 +162,7 @@ body {
   bottom: 5%;
   left: 20%;
   right: 20%;
-}
-
-.big-text {
   font-size: 54px;
-  /* this is same pink in gradient  */
 }
 
 .green-text {
@@ -205,10 +201,17 @@ body {
     height: 500px;
     background-size: contain;
   }
+
+  .bottom-center-text {
+    bottom: 5%;
+    font-size: 42px;
+    /* color: orange; */
+  }
 }
 
 /* Smartphones (portrait and landscape) ----------- */
-@media screen and (max-width: 480px) {
+/* @media screen and (max-width: 480px) { */
+@media screen and (max-width: 524px) {
   .add-padding-to-text {
     padding-left: 5%;
     padding-right: 5%;
@@ -221,6 +224,12 @@ body {
 
   .subheader {
     font-size: 30px;
+  }
+
+  .bottom-center-text {
+    bottom: 10%;
+    font-size: 32px;
+    /* color: red; */
   }
 
   .slide-image {
