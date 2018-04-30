@@ -180,6 +180,10 @@ body {
   font-size: 54px;
 }
 
+.cursive-text {
+  font-family: 'Dancing Script', cursive;
+}
+
 .green-text {
   /* color: rgb(72,191,25); */
   /* color: green; */
