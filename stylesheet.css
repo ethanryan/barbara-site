@@ -50,6 +50,7 @@ body {
 
 .subheader {
   color: purple;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .box-shadow {
@@ -213,8 +214,14 @@ body {
   /* background-color: black; */
 }
 
+
+
 /* Tablets ----------- */
 @media screen and (max-width: 1024px) {
+  .mainheader {
+    /* font-size: 36px; */
+  }
+
   .slide-image {
     width: 100%;
     height: 500px;
@@ -227,6 +234,8 @@ body {
     /* color: orange; */
   }
 }
+
+
 
 /* Smartphones (portrait and landscape) ----------- */
 /* @media screen and (max-width: 480px) { */
@@ -242,7 +251,7 @@ body {
   }
 
   .subheader {
-    font-size: 30px;
+    /* font-size: 30px; */
   }
 
   .bottom-center-text {
