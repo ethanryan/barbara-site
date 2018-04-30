@@ -57,6 +57,11 @@ body {
   box-shadow: 0 4px 6px 0 hsla(0, 0%, 0%, 0.2);
 }
 
+.congrats {
+  border: 2px solid green;
+  border-radius: 25px;
+}
+
 .icon {
   margin-left: -25px;
 }
