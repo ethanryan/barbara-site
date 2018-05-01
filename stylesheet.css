@@ -250,7 +250,7 @@ body {
   }
 
   .slide-image {
-    width: 100%;
+    max-width: 100%;
     height: 500px;
     background-size: contain;
   }
@@ -289,7 +289,7 @@ body {
 
   .slide-image {
     /* border: 5px solid red; */
-    width: 100%;
+    max-width: 100%;
     height: 500px;
     /* background-size: cover; */
     background-size: contain;
