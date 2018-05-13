@@ -232,6 +232,10 @@ body {
   background-size: cover;
 }
 
+.about-text {
+  padding-top: 5%;
+}
+
 .media-container {
   border: solid 5px green;
 }
