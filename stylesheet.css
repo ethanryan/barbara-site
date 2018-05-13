@@ -228,7 +228,7 @@ body {
   color: #fff;
   height: 100%;
   min-height: 600px;
-  background: url(assets/profile-0.jpg) center no-repeat;
+  background: url(assets/profile/profile-0.jpg) center no-repeat;
   background-size: cover;
 }
 
