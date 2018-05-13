@@ -241,6 +241,10 @@ body {
   border: 5px solid red;
 }
 
+.about-border {
+  border: 2px solid green;
+  border-radius: 25px;
+}
 
 
 /* Tablets ----------- */
