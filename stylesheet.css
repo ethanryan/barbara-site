@@ -120,10 +120,6 @@ body {
   /* 720px is the height of the original image */
 }
 
-#about-text {
-  padding-top: 20px;
-}
-
 .top-center-text {
   position: absolute;
   top: 3%;
@@ -242,6 +238,12 @@ body {
 }
 
 
+/* this is the point when about section pic goes above image */
+@media screen and (max-width: 767px) {
+  .about-text {
+    padding: 5%;
+  }
+}
 
 /* Smartphones (portrait and landscape) ----------- */
 /* @media screen and (max-width: 480px) { */
