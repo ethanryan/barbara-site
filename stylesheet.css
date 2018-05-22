@@ -193,11 +193,11 @@ body {
   color: #fff;
   height: 100%;
   /* min-height: 600px; */
-  /* min-height: 500px; */
-  min-height: 324px;
+  min-height: 500px;
+  /* min-height: 324px; */
   /* background: url(assets/profile/profile-0.jpg) center no-repeat; */
-  /* background: url(assets/profile/profile-0.jpg) no-repeat; */
-  background: url(assets/profile/profile_new.jpg) center no-repeat;
+  background: url(assets/profile/profile-0.jpg) no-repeat;
+  /* background: url(assets/profile/profile_new.jpg) center no-repeat; */
   background-size: cover;
 }
 
