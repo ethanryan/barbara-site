@@ -276,16 +276,6 @@ body {
     /* color: red; */
   }
 
-  .img-fluid {
-    max-height: 250px!important;
-    /* setting height so images in carousel are all same height */
-  }
-
-  .carousel-item {
-    max-width: 300px!important;
-    margin: 0 auto;
-}
-
   /* .slide-image { */
     /* border: 5px solid red; */
     /* max-width: 100%; */
