@@ -6,12 +6,18 @@ body {
   font-size: 18px;
   /* background: linear-gradient(to right, #bb377d, #fbd3e9, #bb377d); */
   /* cherryblossoms gradient */
-  background: linear-gradient(to right, purple, #fbd3e9, purple);
+  /* background: linear-gradient(to right, purple, #fbd3e9, purple); */
+  background: linear-gradient(to right, pink, purple, pink);
 }
 
 #navbar {
   /* background: linear-gradient(to right, #bb377d, #fbd3e9, #bb377d); */
-  background: linear-gradient(to right, purple, #fbd3e9, purple);
+  /* background: linear-gradient(to right, purple, #fbd3e9, purple); */
+  background: linear-gradient(to right, purple, pink);
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: white;
 }
 
 .shadow-text {
@@ -68,13 +74,6 @@ body {
 
 .added-margin {
   margin-top: 3%;
-}
-
-.process-header {
-  /* background: #fbd3e9; */
-  background: white;
-  border: 5px solid #fbd3e9;
-  /* border-bottom: none; */
 }
 
 .service-offerings {
