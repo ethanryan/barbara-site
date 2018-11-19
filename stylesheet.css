@@ -69,7 +69,7 @@ body {
 
 #process {
   margin-bottom: 40px;
-  padding: 20px;
+  /* padding: 20px; */
 }
 
 .added-margin {
@@ -193,15 +193,13 @@ body {
 }
 /* above is to center images in carousel horizontally and vertically */
 
-.add-padding-to-text {
-  padding-left: 15%;
-  padding-right: 15%;
-  /* background-color: black; */
-}
-
 .small-pic {
   /* max-height: 50%; */
   max-width: 50%;
+}
+
+.card-padding {
+  padding: 20px;
 }
 
 .card-img-about-profile-pic {
@@ -227,7 +225,7 @@ body {
 }
 
 .green-border {
-  border: 2px solid #608038;
+  border: 1px solid #608038;
   /* same color as green-text */
 }
 
@@ -260,12 +258,6 @@ body {
 /* Smartphones (portrait and landscape) ----------- */
 /* @media screen and (max-width: 480px) { */
 @media screen and (max-width: 524px) {
-  .add-padding-to-text {
-    padding-left: 5%;
-    padding-right: 5%;
-    /* background-color: blue; */
-  }
-
   .mainheader {
     font-size: 42px;
   }
